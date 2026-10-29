@@ -1,0 +1,23 @@
+{
+  "songs": [
+    {
+      "id": "trust_me",
+      "title": "Trust Me",
+      "owner": "edf79122-4017-3900-92b8-8c59a0c84089",
+      "ownerName": "Chegebur",
+      "seconds": 206.2,
+      "slot": 2,
+      "added": 1793195193443
+    },
+    {
+      "id": "trust_bro",
+      "title": "Trust Bro",
+      "owner": "edf79122-4017-3900-92b8-8c59a0c84089",
+      "ownerName": "Chegebur",
+      "seconds": 206.2,
+      "slot": 3,
+      "added": 1793302840489
+    }
+  ],
+  "removed": []
+}
